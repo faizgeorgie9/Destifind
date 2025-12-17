@@ -35,9 +35,18 @@ Through this project, I gained a deeper understanding of:
 - Writing cleaner, more maintainable, and structured code
 - Thinking algorithmically when approaching a problem
 
+## How to Run the Program
+
+1. Make sure Python is installed on your system (Python 3.8 or later is recommended).
+
+2. Install all required dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Navigate to the project directory.
+4. Run the main application file:
+   python destifind.py
+
 ## Notes
 This project was developed during my second semester as part of my academic coursework.  
 While it reflects my learning stage at that time, it also represents an important milestone in my growth as a programmer.
-
----
 
